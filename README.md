@@ -14,3 +14,5 @@ Add an action to be performed when the button is clicked.
 ### MyDrawPanel
 Creates a first DrawPanel with a rectangle inside.
 
+### MyDrawPanel2
+Uses an image file in the JPanel component
