@@ -16,3 +16,6 @@ Creates a first DrawPanel with a rectangle inside.
 
 ### MyDrawPanel2
 Uses an image file in the JPanel component
+
+### MyDrawPanel3
+Creates a random colored oval over a black background
