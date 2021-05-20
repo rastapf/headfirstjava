@@ -19,3 +19,6 @@ Uses an image file in the JPanel component
 
 ### MyDrawPanel3
 Creates a random colored oval over a black background
+
+### MyDrawPanel4
+Type casting of Graphics => Graphics2D and gradient fill
