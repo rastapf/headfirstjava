@@ -22,3 +22,7 @@ Creates a random colored oval over a black background
 
 ### MyDrawPanel4
 Type casting of Graphics => Graphics2D and gradient fill
+
+### SimpleGui3
+Use of inner classes to implement the same interface for multiple actions.
+DrawPanel Class created to contain the graphic elements.
